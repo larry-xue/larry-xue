@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 
 ### self introduction
 
-xyj: 
-- fzu三年级学生
-- JavaScript铁five
-- 不重复造轮子主义者
-- 懒狗💩
+no
