@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### self introduction
 
-no
+[azoux's blog](www.sd2n.xyz)
