@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### self introduction
 
-[azoux's blog](https://www.sd2n.xyz/)
+[azoux's blog](https://www.cnblogs.com/azoux/)
