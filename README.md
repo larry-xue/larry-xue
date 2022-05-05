@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### self introduction
-
 [azoux's blog](https://www.cnblogs.com/azoux/)
