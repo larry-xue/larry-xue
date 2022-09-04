@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi guys!
 - 🔭 I’m currently be a frontend developer
 - ⚡ My skill list: 
   - JavaScript, css3, html5
