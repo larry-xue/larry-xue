@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently be a frontend developer
+- 🔭 I’m currently being a frontend developer
 - ⚡ My skill list: 
   - JavaScript, css3, html5
-  - vue2, React18, ElementUI, MUI
+  - vue2, React18, ElementUI, Express
   - nginx, docker, jenkins
   - Typescript, Golang
 - 🌱 I’m currently learning CS61A
