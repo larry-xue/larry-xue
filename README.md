@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - JavaScript, css3, html5
   - vue2, React18, ElementUI, Express
   - nginx, docker, jenkins
-  - Typescript, Golang
+  - Typescript, Python, Golang
 - 🌱 I’m currently learning CS61A
   - I decide to learn it in 2 months
   - and the next course I will learn, may be CS61B? 
