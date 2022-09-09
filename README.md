@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning CS61A
   - I decide to learn it in 2 months
   - and the next course I will learn, may be CS61B? 
-- 💬 If you guys have the same goals with me, I would appreciate if you contact me: azoux0311@gmail.com
+- 💬 If you guys have the same goals with me, I would appreciate it if you contact me: azoux0311@gmail.com
