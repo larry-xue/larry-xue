@@ -20,7 +20,5 @@ Here are some ideas to get you started:
   - vue2, React18, ElementUI, Express
   - nginx, docker, jenkins
   - Typescript, Python, Golang
-- 🌱 I’m currently learning CS61A
-  - I decide to learn it in 2 months
-  - and the next course I will learn, may be CS61B? 
+- 🌱 I’m currently learning CS61A, Microservices, Kubernetes
 - 💬 If you guys have the same goals with me, I would appreciate it if you contact me: azoux0311@gmail.com
