@@ -6,7 +6,7 @@
 **This is larry, looking for a fullstack remote job**, part time is also acceptable.
 
 
-🤔️ My experience? I have 2 year experience in building and maintaining external control console, inner system and so on.
+🤔️ My experience? I have 2 years experience in building and maintaining external control console, inner system and so on.
 
 
 🌬 What I can do? Typescript / Nest.js / Vue.js / React.js / Docker / Echarts
