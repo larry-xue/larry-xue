@@ -9,4 +9,6 @@
 🤔️ My experience? I have 2 years experience in building and maintaining external control console, inner system and so on.
 
 
-🌬 What I can do? Typescript / Nest.js / Vue.js / React.js / Docker / Echarts
+🌬 What I can do? Typescript / Nest.js / Vue.js / React.js / Docker / Echarts...
+
+Visite my profile online: [Larry's Profile](https://profile.larryxue.dev/)
