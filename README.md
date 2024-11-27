@@ -1,6 +1,10 @@
-### Hi there 👋
+Hey there! I’m **Yujian(larry) Xue** 👋
 
-- 🌽 **[Larry's Portfolio](https://larryxue.dev/)**
-- 🍠 **[Larry's Resume](https://drive.google.com/file/d/1Dl-s1_Aq4bRQ5QT-fvuLHe1Eo9KXiiPW/view)**
+I build `side projects`:
+- Get inspired by awesome portfolios on [Dev-Portfolio-Hub](https://dev-portfolio-hub.larryxue.dev/)
+- Explore Cloudflare Worker AI models on [larry's AI Site](https://ai.larryxue.dev/)
+- Quickly export your folder tree to JSON [Folder to JSON](https://folder2json.larryxue.dev/)
 
-## `Actively seeking a remote or visa support front-end / fullstack engineer position with 3+ years of experience in web development.`
+I also write some `blogs`, Check them out at [yujian's blog](https://blog.larryxue.dev/).
+
+Looking to `collaborate or hire` me? Feel free to visit my [Portfolio and Resume](https://larryxue.dev) for more details.
