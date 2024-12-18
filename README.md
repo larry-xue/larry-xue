@@ -9,3 +9,5 @@ I build `side projects`:
 I also write some `blogs`, Check them out at [Yujian's blog](https://blog.larryxue.dev/).
 
 Looking to `collaborate or hire` me? Feel free to visit my [Portfolio and Resume](https://larryxue.dev) for more details.
+
+![larry-xue's Stats](https://github-readme-stats.vercel.app/api?username=larry-xue&theme=radical&show_icons=true&hide_border=true&count_private=true)
