@@ -6,7 +6,7 @@ I build `side projects`:
 - Quickly export your folder tree to JSON [Folder to JSON](https://folder2json.larryxue.dev/)
 - A clean and minimal blog template built with astro [Astro Zen Blog](https://github.com/larry-xue/astro-zen-blog)
 
-I also write some `blogs`, Check them out at [Yujian's blog](https://blog.larryxue.dev/).
+I also write some `blogs`, Check them out at [Yujian's blog](https://blog.larryxue.dev/) and [博客园](https://www.cnblogs.com/azoux).
 
 Looking to `collaborate or hire` me? Feel free to visit my [Portfolio and Resume](https://larryxue.dev) for more details.
 
