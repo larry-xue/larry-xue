@@ -12,5 +12,3 @@ Looking to `collaborate or hire` me? Feel free to visit my [Portfolio and Resume
 
 Appreciating my work?
 <a href="https://www.buymeacoffee.com/yujian.xue" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-![larry-xue's Stats](https://github-readme-stats.vercel.app/api?username=larry-xue&theme=radical&show_icons=true&hide_border=true&count_private=true)
